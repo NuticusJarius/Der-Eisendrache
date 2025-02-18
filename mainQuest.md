@@ -1,4 +1,4 @@
-# Der Eisendrache Main Quest
+# Der Eisendrache Main Quest Guide
 
 ## Recommended setup:
 * Build the shield
